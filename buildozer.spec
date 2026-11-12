@@ -2,6 +2,7 @@
 title = DroneTacticalGCS
 package.name = dronetacticalgcs
 package.domain = org.dronegcs
+source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,json
 source.main_filename = main.py
 requirements = python3,flet
